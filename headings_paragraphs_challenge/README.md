@@ -1,19 +1,19 @@
-# html_challenges
-All my challenges
+# challenge_1
+This is my headings and paragraphs challenge.
 
 ## Setting up your workspace
 
-- Open your terminal and launch the command 
+- Open your terminal and launch the command
 - Create your base folder structure (css,images, js)
 
 ## Live Link
-- https://nashville7.github.io/html_challenges/index.html
+- 
 
 ## Prevalent Technologies Used
 
  - HTML
  - CSS
- 
+
 
 ### Other Technologies Used
 
@@ -23,7 +23,6 @@ Technologies and Tools Used:
 Languages:
 
 - CSS
-- SASS
 - HTML
 
 ```
@@ -45,4 +44,4 @@ Tools:
 
 ## Contributors
 
-Nate to the D O and double G - 2018
+Nashville James - 2018
